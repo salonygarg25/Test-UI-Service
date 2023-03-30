@@ -1,5 +1,3 @@
-console.log('First Project')
-console.log('Hiii!!!')
-const func = () =>{
-    
-}
+const func = () => {
+  console.log("Hello!!");
+};
